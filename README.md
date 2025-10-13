@@ -52,7 +52,8 @@
 
 ## OUTPUT:
 
-![Uploading poster.png…]()
+<img width="1587" height="2245" alt="poster" src="https://github.com/user-attachments/assets/c7f9a7e8-1015-40a9-8af4-ec95522d9dee" />
+
 
 ## RESULT:
 
