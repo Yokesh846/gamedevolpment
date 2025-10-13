@@ -51,3 +51,11 @@
 
 
 ## OUTPUT:
+
+![Uploading poster.png…]()
+
+## RESULT:
+
+Thus to edit an image using an image editing software completed successfully.
+
+
