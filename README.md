@@ -51,11 +51,9 @@
 
 
 ## OUTPUT:
+![WhatsApp Image 2025-11-12 at 15 38 21_2fddf146](https://github.com/user-attachments/assets/7cc7f87b-4e3a-4f82-8376-18e90516ef5d)
 
-<img width="1587" height="2245" alt="poster" src="https://github.com/user-attachments/assets/c7f9a7e8-1015-40a9-8af4-ec95522d9dee" />
 
-
-## RESULT:
 
 Thus to edit an image using an image editing software completed successfully.
 
