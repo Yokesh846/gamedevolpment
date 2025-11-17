@@ -51,7 +51,8 @@
 
 
 ## OUTPUT:
-![900w-rt0GK329zGo](https://github.com/user-attachments/assets/91f32cc8-0d76-4876-8c0b-6e85f06ffb93)
+<img width="1587" height="2245" alt="Untitled design" src="https://github.com/user-attachments/assets/2cd6f7b7-7627-4aa9-9620-891b1bcc1d16" />
+
 
 
 
