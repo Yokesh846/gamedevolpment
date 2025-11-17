@@ -51,7 +51,7 @@
 
 
 ## OUTPUT:
-![WhatsApp Image 2025-11-12 at 15 38 21_2fddf146](https://github.com/user-attachments/assets/7cc7f87b-4e3a-4f82-8376-18e90516ef5d)
+![900w-rt0GK329zGo](https://github.com/user-attachments/assets/91f32cc8-0d76-4876-8c0b-6e85f06ffb93)
 
 
 
